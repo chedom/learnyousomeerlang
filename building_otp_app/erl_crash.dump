@@ -1,0 +1,36 @@
+=erl_crash_dump:0.3
+Fri Jun  2 19:10:08 2017
+Slogan: erl_child_setup closed
+System version: Erlang/OTP 19 [erts-8.3] [source] [64-bit] [smp:8:8] [async-threads:10] [kernel-poll:false]
+Compiled: Thu May 11 09:58:10 2017
+Taints: erl_tracer
+Atoms: 7374
+Calling Thread: scheduler:7
+=scheduler:1
+Scheduler Sleep Info Flags: SLEEPING | TSE_SLEEPING | WAITING
+Scheduler Sleep Info Aux Work: 
+Current Port: 
+Run Queue Max Length: 0
+Run Queue High Length: 0
+Run Queue Normal Length: 0
+Run Queue Low Length: 0
+Run Queue Port Length: 0
+Run Queue Flags: OUT_OF_WORK | HALFTIME_OUT_OF_WORK
+Current Process: 
+=scheduler:2
+Scheduler Sleep Info Flags: SLEEPING | TSE_SLEEPING | WAITING
+Scheduler Sleep Info Aux Work: 
+Current Port: 
+Run Queue Max Length: 0
+Run Queue High Length: 0
+Run Queue Normal Length: 0
+Run Queue Low Length: 0
+Run Queue Port Length: 0
+Run Queue Flags: OUT_OF_WORK | HALFTIME_OUT_OF_WORK
+Current Process: 
+=scheduler:3
+Scheduler Sleep Info Flags: SLEEPING | TSE_SLEEPING | WAITING
+Scheduler Sleep Info Aux Work: 
+Current Port: 
+Run Queue Max Length: 0
+Run Queue High Length: 0
